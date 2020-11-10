@@ -371,3 +371,16 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+/* -----------------------------------------Photos */
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 1;
+    column-gap: 0px;
+}
+
+#photo img{
+    width: 100%;
+}
