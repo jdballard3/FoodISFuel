@@ -384,3 +384,13 @@ button[type="submit"] {
 #photo img{
     width: 100%;
 }
+
+/* -----------------------------------------Video */
+
+video {
+    background: url("..assets/media/SUNP0005.mp4.mp4");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
