@@ -30,12 +30,20 @@
     background-color: #9b59b6;
 }
 
-.ui-menu-color-contact {
+.ui-menu-color-media {
     background-color: #3498db;
 }
 
 .ui-menu-color-download {
     background-color: #525252;
+}
+
+.ui-menu-color-charities {
+    background-color: #d61515;
+}
+
+.ui-menu-color-contact {
+    background-color: #2ab16d;
 }
 
 /* -----------------------------------------Special paddings/margins/text */
@@ -382,7 +390,7 @@ button[type="submit"] {
 }
 
 #photo img{
-    width: 100%;
+    width: 50%;
 }
 
 /* -----------------------------------------Video */
